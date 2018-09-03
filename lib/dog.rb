@@ -12,4 +12,5 @@ end
 
 lulu = Dog.new 
 
-Dog.sit
+lulu.bark
+lulu.sit
