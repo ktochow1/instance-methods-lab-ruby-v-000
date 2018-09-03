@@ -10,5 +10,6 @@ class Dog
   
 end
 
-Dog.bark
+lulu = Dog.new 
+
 Dog.sit
