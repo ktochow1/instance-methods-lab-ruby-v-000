@@ -9,3 +9,8 @@ class Person
   end
 
 end
+
+jane = Person.new 
+
+jane.talk
+jane.walk
